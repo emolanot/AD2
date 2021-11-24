@@ -1,4 +1,4 @@
-# Análisis a artículo: A Day in the Life of Americans
+# Análisis artículo: A Day in the Life of Americans
 
 *Por: Emmanuel Molano Turriago*  
  

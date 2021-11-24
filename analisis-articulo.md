@@ -20,7 +20,7 @@ cansan un tanto más la vista que cuando se usan tipografías sin ella.
 El artículo me pareció fascinante por su claridad y simpleza pero lo que más llama la atención definitivamente es la visualización de los datos.
 
 
-[Visualización](https://github.com/emolanot/AD2/blob/main/grafica-flowdata.png)
+[Visualización](grafica-flowdata.png)
 
 
 La selección del tema es bastante acertado, puesto que es una temática que a la gente del común le interesa saber o por lo menos despierta la curiosidad.  
